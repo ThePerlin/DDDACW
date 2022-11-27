@@ -6,6 +6,11 @@ namespace DDDACW
 {
     class Student : InteractiveUser 
     {
+        public void SelfReport()
+        {
+
+        }
+
 
     }
 }

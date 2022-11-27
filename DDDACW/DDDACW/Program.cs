@@ -15,7 +15,10 @@ namespace DDDACW
             
             menu.DisplayWelcome();
             menu.MainMenu(user);
-            menu.EnterSelection(menu.maxSelection(user));
+            
+
+          
+
             menu.PressToConiunue();
             
 
