@@ -11,6 +11,10 @@ namespace DDDACW
         {
 
         }
+        public void ShowPendingMeetingRequest()
+        {
+
+        }
 
         public void respondToMeeting()
         {
@@ -23,6 +27,16 @@ namespace DDDACW
         }
         public void BookMeeting()
         {
+            //int meetingDay;
+            //int meetingMonth;
+            //int meetingYear;
+
+            //Console.WriteLine("Please anter the day of the meeting");
+            //meetingDay = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Please anter the month of the meeting");
+            //meetingMonth = int.Parse(Console.ReadLine());
+            string meetingDate;
+            Console.WriteLine("Please anter the date of the meeting in the following format DD/MM/YYYY");
 
         }
         static bool hasPendingMeeting()
