@@ -106,7 +106,7 @@ jobs:
     
     # Show result
     - name: Show build
-      run: dir DDDACW
+      run: dir DDDACW\bin\Debug\
       
     # Remove the pfx
     #- name: Remove the pfx
