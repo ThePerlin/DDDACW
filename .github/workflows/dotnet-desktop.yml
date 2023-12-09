@@ -106,7 +106,7 @@ jobs:
     
     # Show result
     - name: Show build
-      run: dir DDDACW\bin\Debug\
+      run: dir DDDACW\bin\Debug\netcoreapp3.1
       
     # Remove the pfx
     #- name: Remove the pfx
