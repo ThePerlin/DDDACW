@@ -11,3 +11,17 @@ C:\Users\48518\source\repos\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.csproj.
 C:\Users\48518\source\repos\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.dll
 C:\Users\48518\source\repos\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.pdb
 C:\Users\48518\source\repos\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.genruntimeconfig.cache
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.exe
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.deps.json
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.runtimeconfig.json
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.runtimeconfig.dev.json
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.dll
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.pdb
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.csproj.AssemblyReference.cache
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.AssemblyInfoInputs.cache
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.AssemblyInfo.cs
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.csproj.CoreCompileInputs.cache
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.dll
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.pdb
+C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.genruntimeconfig.cache
