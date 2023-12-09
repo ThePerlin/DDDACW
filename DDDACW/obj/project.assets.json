@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\48518\\.nuget\\packages\\": {}
+    "C:\\Users\\ZbyszekPerliński\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48518\\source\\repos\\DDDACW\\DDDACW\\DDDACW.csproj",
+      "projectUniqueName": "C:\\Users\\ZbyszekPerliński\\source\\repos\\DDDACW-test\\DDDACW\\DDDACW.csproj",
       "projectName": "DDDACW",
-      "projectPath": "C:\\Users\\48518\\source\\repos\\DDDACW\\DDDACW\\DDDACW.csproj",
-      "packagesPath": "C:\\Users\\48518\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48518\\source\\repos\\DDDACW\\DDDACW\\obj\\",
+      "projectPath": "C:\\Users\\ZbyszekPerliński\\source\\repos\\DDDACW-test\\DDDACW\\DDDACW.csproj",
+      "packagesPath": "C:\\Users\\ZbyszekPerliński\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ZbyszekPerliński\\source\\repos\\DDDACW-test\\DDDACW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\48518\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ZbyszekPerliński\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
