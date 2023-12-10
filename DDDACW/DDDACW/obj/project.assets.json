@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZbyszekPerliński\\Source\\Repos\\DDDACW-test\\DDDACW\\DDDACW\\DDDACW.csproj",
+      "projectUniqueName": "C:\\Users\\ZbyszekPerliński\\Source\\Repos\\DDDACW2023\\DDDACW\\DDDACW\\DDDACW.csproj",
       "projectName": "DDDACW",
-      "projectPath": "C:\\Users\\ZbyszekPerliński\\Source\\Repos\\DDDACW-test\\DDDACW\\DDDACW\\DDDACW.csproj",
+      "projectPath": "C:\\Users\\ZbyszekPerliński\\Source\\Repos\\DDDACW2023\\DDDACW\\DDDACW\\DDDACW.csproj",
       "packagesPath": "C:\\Users\\ZbyszekPerliński\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZbyszekPerliński\\Source\\Repos\\DDDACW-test\\DDDACW\\DDDACW\\obj\\",
+      "outputPath": "C:\\Users\\ZbyszekPerliński\\Source\\Repos\\DDDACW2023\\DDDACW\\DDDACW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZbyszekPerliński\\AppData\\Roaming\\NuGet\\NuGet.Config",

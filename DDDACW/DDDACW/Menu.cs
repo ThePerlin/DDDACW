@@ -9,7 +9,7 @@ namespace DDDACW
 
         public void DisplayWelcome()
         {
-            Console.WriteLine("Welcome to the departament of science supporting app! :-/");
+            Console.WriteLine("Welcome to the departament of science supporting app! :-/ ");
         }
 
         public void DisplayLoginMenu()
