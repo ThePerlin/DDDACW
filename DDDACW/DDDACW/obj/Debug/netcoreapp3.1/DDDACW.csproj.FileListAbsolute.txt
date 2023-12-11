@@ -25,3 +25,17 @@ C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netc
 C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.dll
 C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.pdb
 C:\Users\ZbyszekPerliński\Source\Repos\DDDACW-test\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.genruntimeconfig.cache
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.exe
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.deps.json
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.runtimeconfig.json
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.runtimeconfig.dev.json
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.dll
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\bin\Debug\netcoreapp3.1\DDDACW.pdb
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.csproj.AssemblyReference.cache
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.AssemblyInfoInputs.cache
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.AssemblyInfo.cs
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.csproj.CoreCompileInputs.cache
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.dll
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.pdb
+C:\Users\ZbyszekPerliński\source\repos\DDDACW2023\DDDACW\DDDACW\obj\Debug\netcoreapp3.1\DDDACW.genruntimeconfig.cache

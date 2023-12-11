@@ -6,11 +6,15 @@ namespace DDDACW
 {
     class SeniorTutor : InteractiveUser
     {
-
+        public UserType type = UserType.TUTOR;
+        public int menuMaxSel = 1;
         public void GetMyStudents()
         {
 
         }
-
+        public void WhoAmI()
+        {
+            Console.WriteLine("I am TUTOR");
+        }
     }
 }

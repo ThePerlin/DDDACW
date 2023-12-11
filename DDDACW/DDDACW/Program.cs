@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net;
 
 namespace DDDACW
 {
@@ -7,25 +8,33 @@ namespace DDDACW
         static void Main(string[] args)
         {
             Menu menu = new Menu();
-            User user = new User();
+            User user;
+            string signin = "1";
 
-            user.type = UserType.STUDENT;
+            while (signin != "0") {
 
-            user.Login();
-            
-            menu.DisplayWelcome();
-            menu.MainMenu(user);
-            
+                user = menu.Login();
 
-          
+                if (user != null)
+                {
+                    int choice = 1;
+                    menu.DisplayWelcome(user);
 
-            menu.PressToConiunue();
-            
+                    while (choice != 0)
+                    {
+                        choice = menu.MainMenu(user);
 
-           
-
-            
-
+                        Console.WriteLine("You have entered " + choice.ToString());
+                        menu.PressToConiunue();
+                        Console.Clear();
+                    }
+                    menu.Logout();
+                } 
+                else
+                {
+                    signin = menu.DisplayFailedLogin();
+                }
+            }
         }
     }
 }
