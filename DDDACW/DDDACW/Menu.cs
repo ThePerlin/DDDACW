@@ -138,15 +138,15 @@ namespace DDDACW
                 selection = int.Parse(Console.ReadLine());
             }
             catch
-            {
-                // user entered out of range or non-numeric value
+            {  // user entered out of range or non-numeric value
+                selection = -1; 
+            }
 
-                while (selection < minValue || selection > maxValue)
-                {
-                    Console.Write("The number does not meet the criteria: " + minValue + "-" + maxValue + ", please try again:");
-                    try { selection = int.Parse(Console.ReadLine()); } catch { selection = -1; }
-                    Console.Clear();
-                }
+            while (selection < minValue || selection > maxValue)
+            {
+                Console.Write("The number does not meet the criteria: " + minValue + "-" + maxValue + ", please try again:");
+                try { selection = int.Parse(Console.ReadLine()); } catch { selection = -1; }
+                //Console.Clear();
             }
                 
             //Console.WriteLine("You have entered " + selection.ToString());
