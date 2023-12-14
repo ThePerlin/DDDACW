@@ -1,29 +1,31 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace DDDACW
 {
     public enum UserType { STUDENT, SUPERVISOR, TUTOR }
-   
 
-    class User
+    public class User
     {
-        public string firstName { get; set; }
-        public string lastName { get; set; }
-        public string userID;
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public bool PendingMeetingRequest { get; set; }
+        public string userID { get; set; }
         public string password;
         public UserType type;
-        public bool pendingMeetingRequest;
-       
-        public bool HasPendingMeetingRequest(User user)
+        public string filePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "students.json");
+
+        public bool HasPendingMeetingRequest()
         {      
-            return pendingMeetingRequest;
+            return PendingMeetingRequest;
         }
         
         public void WhoAmI()
         {
             Console.WriteLine("I am USER");
         }
+
     }
 }

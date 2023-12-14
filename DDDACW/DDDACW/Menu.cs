@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Linq.Expressions;
 using System.Security.Cryptography;
 using System.Text;
+using System.Text.Json;
 using static System.Collections.Specialized.BitVector32;
 
 namespace DDDACW
@@ -14,15 +17,15 @@ namespace DDDACW
 
             if (user.type == UserType.STUDENT)
             {
-                Console.WriteLine("Hi Student " + user.firstName + " " + user.lastName);
+                Console.WriteLine("Hi Student " + user.FirstName + " " + user.LastName);
             }
             else if (user.type == UserType.SUPERVISOR)
             {
-                Console.WriteLine("Hi Personal Supervisor " + user.firstName + " " + user.lastName);
+                Console.WriteLine("Hi Personal Supervisor " + user.FirstName + " " + user.LastName);
             }
             else if (user.type == UserType.TUTOR)
             {
-                Console.WriteLine("Hi Sernior Tutor " + user.firstName + " " + user.lastName);
+                Console.WriteLine("Hi Sernior Tutor " + user.FirstName + " " + user.LastName);
             }
             else
             {
@@ -78,7 +81,7 @@ namespace DDDACW
             else if (userID == "S")
             {
                 // Console.Write("Student");
-                usr.type = UserType.STUDENT; ;
+                usr.type = UserType.STUDENT;
             }
             else
             {
@@ -129,6 +132,25 @@ namespace DDDACW
             return resp;
         }
 
+        public int SelfReportMenu()
+        {
+            int resp;
+
+            Console.Clear();
+            Console.WriteLine("Self Report: How do you feel?");
+            Console.WriteLine("5 : Just Great!");
+            Console.WriteLine("4 : Good");
+            Console.WriteLine("3 : So,so");
+            Console.WriteLine("2 : Bad");
+            Console.WriteLine("1 : Awful");
+            Console.WriteLine("0 : Cancel");
+            Console.Write("Please choose from 1 to 5 or 0 to cancel:");
+
+            resp = GetSelection(0, 5);
+
+            return resp;
+        }
+
         public int GetSelection(int minValue, int maxValue)
         {
             int selection = -1;
@@ -152,6 +174,7 @@ namespace DDDACW
             //Console.WriteLine("You have entered " + selection.ToString());
             return selection;
         }
-    
+
+
     }
 }

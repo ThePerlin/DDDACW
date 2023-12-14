@@ -7,14 +7,23 @@ namespace DDDACW
     class SeniorTutor : InteractiveUser
     {
         public UserType type = UserType.TUTOR;
-        public int menuMaxSel = 1;
-        public void GetMyStudents()
+        public void PerformAction(int action)
         {
-
+            if (action == 1)
+            {
+                ShowStudents();
+            }
         }
-        public void WhoAmI()
+        public void ShowStudents()
+        {
+            Student s = new Student();
+            s.Read();
+            s.Display();
+        }
+        public UserType WhoAmI()
         {
             Console.WriteLine("I am TUTOR");
+            return type;
         }
     }
 }
